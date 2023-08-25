@@ -1,0 +1,12 @@
+DETECTRON 2 
+
+https://github.com/facebookresearch/detectron2
+
+POINTREND
+
+https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
+
+COCO DATASET
+
+https://cocodataset.org/#explore
+
