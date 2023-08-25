@@ -7,7 +7,7 @@ This repo provide an angle estimation framework using open source ML models and 
 Git clone this repo using the command
 
 `
-git clone <url>
+git clone [<url>](https://github.com/shahaamirbader/Angle-Estimation-using-Detectron2-and-OpenCV)
 `
 
 First install the conda env for detectron using the following commands
