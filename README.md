@@ -39,13 +39,14 @@ python main_1.py
 Once all the objects are extracted, label them manually.
 
 
-then go to the following folder and run the command python main_ar_3.py
+then run the command
 
 `
-./detectron2/
+python main_ar_3.py
 `
 
 the reference images are stored in
+
 `
 /path/images/7-_6273_14178_1/images
 `
