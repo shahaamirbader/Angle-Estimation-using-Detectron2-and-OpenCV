@@ -51,4 +51,19 @@ the reference images are stored in
 /path/images/7-_6273_14178_1/images
 `
 
-Results have been recorded and can be viewed in the Results folder in this repo
+Results have been recorded and can be viewed in the Results folder in this repo ---> https://github.com/shahaamirbader/Angle-Estimation-using-Detectron2-and-OpenCV/tree/main/Results
+
+
+References:
+
+DETECTRON 2 
+
+https://github.com/facebookresearch/detectron2
+
+POINTREND
+
+https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
+
+COCO DATASET
+
+https://cocodataset.org/#explore
