@@ -14,9 +14,18 @@ First install the conda env for detectron using the following commands
 
 `
 conda create env -n detectron2
-conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch (https://pytorch.org/get-started/locally/)
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch https://pytorch.org/get-started/locally/
 pip install cython
-git clone detectron2 from the repo...if already installed skip this step
+`
+git clone detectron2 from the repo
+
+`
+git clone https://github.com/facebookresearch/detectron2
+`
+
+Install dependencies
+
+`
 pip install opencv-python
 conda install -c anaconda scikit-image
 `
@@ -28,6 +37,8 @@ pip3 install pycocotools
 pip3 install pixellib
 pip3 install pixellib --upgrade
 `
+
+# Implementation
 
 Then in order to perform image segmentation on a video or image, run the main_1.py code. The code will not pnly perform
 object detection using detectron2 but will also perform instance segmentation using PointRend as well as object extraction using pixellib.
