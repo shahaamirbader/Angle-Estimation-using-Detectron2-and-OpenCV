@@ -54,7 +54,7 @@ the reference images are stored in
 Results have been recorded and can be viewed in the Results folder in this repo ---> https://github.com/shahaamirbader/Angle-Estimation-using-Detectron2-and-OpenCV/tree/main/Results
 
 
-References:
+# References:
 
 DETECTRON 2 
 
@@ -64,6 +64,14 @@ POINTREND
 
 https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
 
+PIXELLIB
+
+https://github.com/ayoolaolafenwa/PixelLib
+
 COCO DATASET
 
 https://cocodataset.org/#explore
+
+CO3D DATASET
+
+https://ai.meta.com/datasets/CO3D-dataset/
